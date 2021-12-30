@@ -1,0 +1,12 @@
+@media (max-width: 600px) {
+  .WeatherInfo {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+  }
+  .temperature-container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+}
